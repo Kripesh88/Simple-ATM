@@ -5,7 +5,7 @@
 int main(){
 	system("color 4f");
 	float enteredPin,count=0,amount=100000;
-	int option,pin=7540;
+	int option,pin=7530;
 	float balance=36000;
 	int continueTransaction=1;
 	time_t now;
